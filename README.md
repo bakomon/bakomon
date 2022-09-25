@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![bakomon's github stats](https://github-readme-stats.vercel.app/api?username=bakomon&show_icons=true&count_private=true&bg_color=161b22&text_color=c9d1d9&title_color=58a6ff&icon_color=238636&border_color=30363d)](https://github.com/bakomon)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakomon&layout=compact&bg_color=161b22&text_color=c9d1d9&title_color=58a6ff&icon_color=238636&border_color=30363d)](https://github.com/bakomon)
+
 <!--
 **bakomon/bakomon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
